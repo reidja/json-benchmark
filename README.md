@@ -18,7 +18,7 @@ python-75MB  |0.3812372923  |   0.3149325418   |  975096  | 0.6818
 cpp-75MB    | 0.21558058  | 0.16391432  | 119515  | 0.3232
 rust-75MB  |  0.1310306742   |  0.06301646642  |  254069  | 0.2138
 
-https://docs.google.com/spreadsheets/d/13EIQpaq-x7vMHDzHCbB0du7ExjsVtY0NswnZLgIUmMk/pubchart?oid=142190828&format=image
+![pic](https://docs.google.com/spreadsheets/d/13EIQpaq-x7vMHDzHCbB0du7ExjsVtY0NswnZLgIUmMk/pubchart?oid=142190828&format=image)
 
 # Usage
 
