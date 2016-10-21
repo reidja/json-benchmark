@@ -19,7 +19,7 @@ cpp-75MB    | 0.21558058  | 0.16391432  | 119515  | 0.3232
 rust-75MB  |  0.1310306742   |  0.06301646642  |  254069  | 0.2138
 
 ![pic](https://docs.google.com/spreadsheets/d/13EIQpaq-x7vMHDzHCbB0du7ExjsVtY0NswnZLgIUmMk/pubchart?oid=142190828&format=image)
-
+![pic](https://docs.google.com/spreadsheets/d/13EIQpaq-x7vMHDzHCbB0du7ExjsVtY0NswnZLgIUmMk/pubchart?oid=648454899&format=image)
 # Usage
 
 
