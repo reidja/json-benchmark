@@ -1,0 +1,6 @@
+*.json
+*.pyc
+rust/runner/target
+cpp/runner
+*.csv
+results.txt
